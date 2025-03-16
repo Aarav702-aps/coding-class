@@ -24,7 +24,7 @@ print()
 
 if choice.lower() == 'a':
     result = add(num_1, num_2)
-    print(num_1, "+",num_2, "a",result)
+    print(num_1, "+",num_2, "=",result)
 
 elif choice.lower() == 'b':
     result = subtract(num_1, num_2)
@@ -34,7 +34,7 @@ elif choice.lower() == 'c':
     result = mulitply(num_1, num_2)
     print(num_1, "*", num_2, "=",result)
 
-elif choice.lower() == 'c':
+elif choice.lower() == 'd':
     result = divide(num_1, num_2)
     print(num_1, "/", num_2, "=",result)
 
