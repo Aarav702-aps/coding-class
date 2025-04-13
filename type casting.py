@@ -6,5 +6,5 @@ print()
 
 #changing data type of a
 a = float(a)
-print("a atfer converting is ", a)
+print("a after converting is ", a)
 print("data type of a converting is ",type(a))
