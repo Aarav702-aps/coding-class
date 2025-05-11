@@ -1,5 +1,4 @@
 import math
-
 print("The floor value of 23.56 is: " + str(math.floor(23.56)))
 print("The ceiling value of 23.56 is: " + str(math.ceil(23.56)))
 print()
